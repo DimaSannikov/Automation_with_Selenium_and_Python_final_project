@@ -11,4 +11,6 @@ pytest -v -s --tb=line --language=en -m need_review
 
 ### Результат прогона выглядит следующим образом:
 
-[Результат прогона]: https://disk.yandex.com/i/12NQ_qce1f1iHA
+![Результат прогона][1]
+
+[1]: https://disk.yandex.com/i/12NQ_qce1f1iHA
