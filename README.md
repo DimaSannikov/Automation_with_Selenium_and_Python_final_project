@@ -13,4 +13,4 @@ pytest -v -s --tb=line --language=en -m need_review
 
 ![Результат прогона][1]
 
-[1]: https://disk.yandex.com/i/12NQ_qce1f1iHA
+[1]: https://disk.yandex.com/client/disk/Documents/Education/Selenium_Python?idApp=client&dialog=slider&idDialog=%2Fdisk%2FDocuments%2FEducation%2FSelenium_Python%2F2024-05-29-18-17-32.png
