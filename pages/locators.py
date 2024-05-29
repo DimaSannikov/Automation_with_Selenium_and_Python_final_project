@@ -27,3 +27,4 @@ class ProductPageLocators():
 class BasketPageLocators():
     BASKET_BUTTON = (By.CSS_SELECTOR, ".btn-group > a.btn.btn-default")
     EMPTY_BASKET_TEXT = (By.CSS_SELECTOR, "#content_inner > p")
+    NOT_EMPTY_BASKET = (By.CSS_SELECTOR, "#content_inner > .basket-title.hidden-xs")
