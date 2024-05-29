@@ -25,7 +25,7 @@ class TestUserAddToBasketFromProductPage():
         basket.should_be_authorized_user()
 
     def teardown_method(self):
-        print("quit browser for test suite..")
+        print("\nquit browser for test suite..")
         self.browser.quit()
 
     @pytest.mark.need_review
